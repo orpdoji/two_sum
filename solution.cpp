@@ -23,4 +23,4 @@ class solution{
             vector<int> res = [index1,index2];
             return res;
         }
-}=
+}
